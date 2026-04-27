@@ -269,19 +269,6 @@ U produkciji je bolje imati shared folder izvan repozitorija, npr:
 
 I onda to postaviti kroz `MEDIA_UPLOAD_DIR`.
 
-## Bitno prije javnog objavljivanja
-
-Prije nego ovo digneš javno na GitHub, provjeri:
-
-- da nema `.env` file-a u repozitoriju
-- da nema pravih lozinki ili tokena
-- da nema production SQLite baze
-- da nema privatnih slika koje ne smiju biti javne
-- da si promijenio admin password
-- da si dodao licencu ako želiš da bude pravi open-source projekt
-
-Ovaj projekt je pušten javno zato jer posao nije plaćen, ali svejedno treba paziti da se ne objave privatni podaci ili tuđi pristupi. Kod može biti otvoren, ali tajne stvari ne smiju ići javno.
-
 ## Dokumentacija
 
 Dodatni dokumenti su u `docs` folderu:
