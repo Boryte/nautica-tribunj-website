@@ -1,0 +1,412 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Story",
+    "menu": "Menu",
+    "events": "Events",
+    "reservation": "Reservation",
+    "media": "Media",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Seafront cocktail bar & coffee bar",
+    "headline": "The rhythm of the sea, coffee, and cocktails",
+    "description": "Nautica is a seafront cocktail bar and coffee bar in Tribunj where the rhythm of the sea, coffee, and cocktails carries the day from morning coffee to golden hour drinks and late seaside evenings.",
+    "cta_reserve": "Reserve a table",
+    "cta_events": "Events",
+    "cta_menu": "Explore menu"
+  },
+  "brand": {
+    "tagline": "The sea in the glass, calm in the view",
+    "intro": "Right on the waterfront in Tribunj, Nautica brings together the rhythm of the sea, coffee, and cocktails in one elegant flow. People arrive for the view, stay for the atmosphere, and return for the feeling that every hour lands exactly as it should.",
+    "since": "Est. 2024"
+  },
+  "experiences": {
+    "title": "Moments to remember",
+    "subtitle": "Every part of the day at Nautica carries its own character",
+    "morning": {
+      "title": "Morning coffee",
+      "description": "Start your day with espresso and a view of the calm morning sea."
+    },
+    "sunset": {
+      "title": "Sunset cocktails",
+      "description": "Watch the sun sink into the sea with our signature cocktails."
+    },
+    "evening": {
+      "title": "Evening delight",
+      "description": "Music, atmosphere and company under the stars."
+    }
+  },
+  "events_section": {
+    "title": "Upcoming events",
+    "subtitle": "Exclusive evenings, live music and special moments",
+    "cta": "All events",
+    "featured": "Featured"
+  },
+  "menu_preview": {
+    "title": "From our menu",
+    "subtitle": "Carefully curated Mediterranean flavours",
+    "cta": "View full menu",
+    "signature": "Signature"
+  },
+  "reservation_cta": {
+    "title": "Reserve your moment",
+    "description": "Secure the best seat for an unforgettable experience by the sea.",
+    "cta": "Reserve a table"
+  },
+  "social": {
+    "title": "Follow us",
+    "subtitle": "Moments from our terrace"
+  },
+  "social_live": {
+    "eyebrow": "Follow live",
+    "title": "{{handle}} in motion and in real time.",
+    "description": "A live Instagram surface paired with the venue’s Facebook timeline, shaped to feel editorial instead of generic.",
+    "media_cta": "Open media",
+    "instagram_cta": "Instagram",
+    "facebook_cta": "Facebook",
+    "live_label": "Live feed",
+    "curated_label": "Curated fallback",
+    "caption_fallback": "Follow the venue for the latest atmosphere, sunsets, and terrace moments.",
+    "fallback_note": "Instagram Graph API temporarily unavailable.",
+    "facebook_label": "Facebook timeline",
+    "facebook_title": "The page stays readable without leaving the Nautica atmosphere.",
+    "facebook_body": "Recent posts, announcements, and public activity are visible directly inside the homepage through the official Facebook page plugin."
+  },
+  "visit": {
+    "title": "Visit us",
+    "address": "DONJA RIVA 55",
+    "city": "22212 Tribunj, Croatia",
+    "hours_title": "Opening hours",
+    "hours_weekday": "Mon – Fri: 08:00 – 00:00",
+    "hours_weekend": "Sat – Sun: 09:00 – 01:00",
+    "phone": "+385 99 785 6785",
+    "email": "trebocconi@trebocconi.com"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms of use",
+    "cookies": "Cookies"
+  },
+  "cookie_consent": {
+    "eyebrow": "Cookie settings",
+    "title": "We only use what the website actually needs, and you decide the rest.",
+    "body": "Necessary technologies stay active for site operation, security, and forms you choose to submit. Analytics and external content such as Google Maps or Facebook widgets load only after your consent.",
+    "accept_all": "Accept all",
+    "reject_optional": "Reject optional",
+    "customize": "Customize choice"
+  },
+  "cookie_settings": {
+    "trigger": "Cookie settings",
+    "eyebrow": "Consent control",
+    "title": "Choose what the website may load.",
+    "description": "The necessary category stays active because the site and administration cannot work correctly without it. The remaining categories are optional and remain under your control.",
+    "always_active": "Always active",
+    "save_preferences": "Save preferences",
+    "categories": {
+      "necessary": {
+        "title": "Necessary",
+        "body": "Security, admin sign-in, storing your cookie choice, and technical flows required for the site to work."
+      },
+      "preferences": {
+        "title": "Preferences",
+        "body": "Remembering the selected language, dismissed notices, and similar local settings that improve the experience but are not required for basic operation."
+      },
+      "analytics": {
+        "title": "Analytics",
+        "body": "Basic performance metrics used to understand speed, stability, and quality of the public website."
+      },
+      "marketing": {
+        "title": "External content",
+        "body": "Google Maps, the Facebook timeline, and other embedded third-party services that may set their own cookies."
+      }
+    }
+  },
+  "cookie_gate": {
+    "allow_and_load": "Allow and load",
+    "open_settings": "Cookie settings"
+  },
+  "about": {
+    "hero_title": "The story of Nautica",
+    "hero_subtitle": "A seafront cocktail bar and coffee bar in Tribunj",
+    "story_title": "Where it all began",
+    "story_p1": "Nautica was shaped by a love of the sea, excellent coffee, and evenings with the right sense of measure. On the Tribunj waterfront, we build a place where the view, service, music, and the glass work together instead of competing for attention.",
+    "story_p2": "Every detail, from the first morning coffee to the signature cocktail at golden hour, follows the same idea: refined, warm, and memorable enough to make you want to return.",
+    "philosophy_title": "Philosophy",
+    "philosophy_text": "We believe luxury is not about excess, but about the right moment: coffee as the promenade wakes up, a cocktail while the sun lowers, and an evening that stays light yet unforgettable.",
+    "values": {
+      "quality": "Uncompromising quality",
+      "atmosphere": "Atmosphere that inspires",
+      "hospitality": "Heartfelt hospitality"
+    }
+  },
+  "menu_page": {
+    "title": "Menu",
+    "subtitle": "Signature cocktails, curated coffee, and a Mediterranean rhythm on the Tribunj waterfront.",
+    "categories": {
+      "signature_cocktails": "Signature Cocktails",
+      "spritz": "Spritz",
+      "vodka": "Vodka",
+      "cognac": "Cognac",
+      "whisky": "Whisky",
+      "rum": "Rum",
+      "tequila_mezcal": "Tequila & Mezcal",
+      "gin": "Gin",
+      "liqueurs": "Liqueurs",
+      "wine": "Wine",
+      "beer": "Beer",
+      "cider": "Cider",
+      "premium_mixers": "Premium Mixers",
+      "water": "Water",
+      "soft_drinks": "Soft Drinks",
+      "fresh_juices": "Fresh Juices",
+      "hot_beverages": "Hot Beverages",
+      "cigars": "Cigars"
+    }
+  },
+  "events_page": {
+    "title": "Events",
+    "subtitle": "Sunset sessions, DJ nights, and special events by the sea in Tribunj.",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "rsvp": "RSVP",
+    "sold_out": "Sold out",
+    "free_entry": "Free entry",
+    "hero_eyebrow": "Programming",
+    "hero_title": "Events deserve their own rhythm, not just a date.",
+    "overview_eyebrow": "Event overview",
+    "overview_description": "The featured view, monthly calendar, and linear schedule all run from the same content model.",
+    "views": {
+      "featured": "Featured",
+      "calendar": "Calendar",
+      "list": "List"
+    },
+    "featured_badge": "Featured",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "reservation_page": {
+    "title": "Reservation",
+    "subtitle": "Reserve a table at Nautica, the seafront cocktail bar and coffee bar in Tribunj.",
+    "hero_eyebrow": "Reservations",
+    "hero_title": "Reserve an evening by the sea without a generic booking flow.",
+    "trust_label": "Confidence in the process",
+    "trust_points": {
+      "confirmation": {
+        "title": "Confirmed without uncertainty",
+        "body": "Every request enters the venue’s real operational workflow."
+      },
+      "availability": {
+        "title": "Real slots and availability",
+        "body": "Time, capacity, and closures are checked before confirmation."
+      },
+      "areas": {
+        "title": "An area matched to the evening",
+        "body": "Terrace, bar, and more intimate corners all feed the same refined flow."
+      }
+    },
+    "success_body": "Our team will confirm the details by phone or email. If the evening includes an event or a special area, the confirmation will reflect real availability.",
+    "table_label": "Your table",
+    "table_title": "A precise flow for arrival, timing, and the tone of the evening.",
+    "process_label": "How it works",
+    "process_points": {
+      "one": "Your request enters the real operational system, not a generic inbox.",
+      "two": "Capacity and special schedules are checked before confirmation.",
+      "three": "Event and VIP reservations stay linked to real nights and real areas."
+    },
+    "contact_timing_label": "Contact and timing",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of guests",
+      "area": "Preferred area",
+      "areas": {
+        "terrace": "Terrace",
+        "indoor": "Indoor",
+        "bar": "Bar",
+        "vip": "VIP area"
+      },
+      "notes": "Special notes",
+      "notes_hint": "Allergies, event, celebration",
+      "notes_placeholder": "Special request, event evening, or VIP note.",
+      "name_placeholder": "Full name",
+      "consent": "I agree to the reservation terms and privacy policy.",
+      "submit": "Submit reservation",
+      "success": "Reservation received! We'll get back to you shortly.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "media_page": {
+    "title": "Media",
+    "subtitle": "Frames of the sea, sunsets, and evenings that define Nautica in Tribunj.",
+    "hero_eyebrow": "Media",
+    "hero_title": "The Nautica atmosphere lives both inside the frame and beyond it.",
+    "all": "All"
+  },
+  "faq_page": {
+    "title": "FAQ",
+    "subtitle": "Clear answers for reservations, events, and private inquiries before your visit to Nautica in Tribunj.",
+    "hero_eyebrow": "Guest questions",
+    "hero_title": "The essentials should feel as considered as the venue itself.",
+    "quick_label": "At a glance",
+    "quick_entries": "curated answers available right now",
+    "quick_whatsapp": "WhatsApp remains the fastest path for anything specific.",
+    "section_label": "Frequently asked questions",
+    "section_title": "Useful answers, organized with the same calm as the rest of the experience.",
+    "section_body": "Reservations, event access, venue details, and private inquiries sit in one refined reference point instead of getting lost in direct messages.",
+    "categories_label": "Categories",
+    "single_entry": "entry",
+    "multiple_entries": "entries",
+    "cta_label": "Still need something specific?",
+    "cta_title": "Move from answers to action without leaving the atmosphere behind.",
+    "cta_body": "If the answer is not here, continue directly into WhatsApp or start a reservation request with the right context already in place.",
+    "cta_actions": "Direct actions",
+    "whatsapp_cta": "Open WhatsApp"
+  },
+  "contact_page": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "hero_eyebrow": "Contact",
+    "hero_title": "Get in touch without losing the atmosphere.",
+    "location_label": "Location",
+    "direct_contact_label": "Direct contact",
+    "send_note_label": "Send a note",
+    "send_note_title": "The request can be quick without the experience becoming generic.",
+    "success_title": "Your message is on its way.",
+    "success_body": "We will come back with a clear answer by email or phone as soon as the venue team reviews the request.",
+    "form": {
+      "name": "Your name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send",
+      "name_placeholder": "Your name",
+      "email_placeholder": "name@example.com",
+      "message_placeholder": "Ask about private events, terrace seating, or anything that helps shape the visit.",
+      "success_toast": "Message sent",
+      "error_toast": "Message could not be sent"
+    }
+  },
+  "about_page": {
+    "story_intro_title": "Nautica was never imagined as just another venue by the sea, but as a place you return to for the feeling.",
+    "values": {
+      "horizon_title": "A horizon that sets the pace",
+      "taste_title": "Taste without excess",
+      "hospitality_title": "Hospitality without distance",
+      "hospitality_body": "Service stays warm, clear, and intentionally unforced."
+    }
+  },
+  "menu_book": {
+    "cover_body": "An edition for slower evenings, signature cocktails, and mornings that stay light.",
+    "editorial_title": "An evening guide to flavours",
+    "editorial_subtitle": "Chapters",
+    "editorial_body": "The chapters turn like a small evening book. Tap, swipe, or jump directly to the section you want.",
+    "curated_selection": "Curated selection",
+    "continuation": "Continuation {{index}}",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "menu_page_experience": {
+    "hero_eyebrow": "Nautica menu",
+    "hero_title": "The menu is now an edition, not an ordinary list.",
+    "hero_description": "Chapters, pacing, and page turning now guide drinks and bites the same way on mobile and desktop.",
+    "aside_label": "Book-first experience",
+    "aside_card_one_title": "Swipe, tap, or page-turning",
+    "aside_card_one_body": "The mobile view keeps the book metaphor instead of falling back to generic cards.",
+    "aside_card_two_suffix": "chapters",
+    "aside_card_two_body": "One data source, one premium narrative for the menu.",
+    "read_label": "How to read the edition",
+    "read_steps": {
+      "one": "Use the chapters to jump to coffee, cocktails, wines, or bites.",
+      "two": "On desktop, the pages turn like a small evening menu book.",
+      "three": "On mobile, the experience stays touch-first, fast, and legible."
+    },
+    "signature_label": "The Nautica signature",
+    "signature_title": "The flavours stay organized, but now they have presence.",
+    "signature_body": "The menu no longer changes its character based on device. One editorial logic carries the experience from the first chapter to the last page.",
+    "signature_badge": "Book-only experience"
+  },
+  "home_page": {
+    "tonight_label": "Event in Nautica",
+    "signature_label": "Signature moments",
+    "signature_sequence_title": "From the first coffee to the last look at the sea, the day here moves with quiet elegance.",
+    "atmosphere_moments": {
+      "one": {
+        "title": "First coffee by the water",
+        "body": "Morning starts with quiet service, precise coffee, and a clear horizon."
+      },
+      "two": {
+        "title": "Aperitivo in the golden hour",
+        "body": "Cocktails and the sea move in the same tempo before sunset."
+      },
+      "three": {
+        "title": "An evening built to linger",
+        "body": "Programming, music, and company turn the night into something memorable."
+      }
+    },
+    "featured_badge": "Featured",
+    "view_event": "View event",
+    "atmosphere_label": "Atmosphere",
+    "atmosphere_title": "Light, sea, and music never feel separate here.",
+    "atmosphere_body": "Morning stays fresh, golden hour turns soft, and the night carries warmth. Nautica leaves an impression through rhythm, not noise.",
+    "menu_label": "Menu",
+    "menu_title": "Browse it like a small evening edition.",
+    "menu_body": "Coffee, signature cocktails, spritzes, wine, and carefully chosen drinks unfold through a menu designed to feel like a refined seaside edition.",
+    "open_edition": "Open the edition",
+    "media_label": "Media",
+    "media_title": "The venue now holds both still frames and moving moments.",
+    "media_body": "Photos, short videos, and GIF scenes from the interior, terrace, and sunsets keep the venue’s rhythm in view.",
+    "open_media": "Open media",
+    "reservation_title": "Reserve a table by the sea for coffee, aperitivo, or an evening that runs longer than planned.",
+    "reservation_body": "On the Tribunj waterfront, reservations lead you toward the right table, the right timing, and the view that sets half the mood. Clear, refined, and never generic.",
+    "opening_hours_label": "Opening hours",
+    "contact_label": "Contact"
+  },
+  "event_detail": {
+    "spots_suffix": "spots",
+    "limited_spots": "Limited",
+    "narrative_label": "Event narrative",
+    "reservation_title": "Your place is confirmed through the event reservation flow.",
+    "reservation_interest_title": "Send your interest for this evening.",
+    "reservation_cta": "Reserve your spot"
+  },
+  "common": {
+    "loading": "Loading Nautica...",
+    "error": "Something went wrong.",
+    "retry": "Try again",
+    "save": "Save",
+    "saving": "Saving...",
+    "logout": "Logout",
+    "on": "On",
+    "off": "Off"
+  },
+  "messages": {
+    "reservation_waitlist": "This seating area is currently waitlist-only for your selected slot.",
+    "event_registered": "Your RSVP is confirmed.",
+    "event_waitlist": "The event is full, but you've been added to the waitlist."
+  },
+  "admin": {
+    "login_title": "Admin sign in",
+    "login_subtitle": "Secure access for Nautica staff",
+    "dashboard": "Dashboard",
+    "announcements": "Announcements",
+    "glimpses": "Glimpses",
+    "media": "Media",
+    "faqs": "FAQ",
+    "reservations": "Reservations",
+    "events": "Events",
+    "menu": "Menu",
+    "settings": "Settings",
+    "recent_activity": "Recent activity",
+    "update_status": "Update status",
+    "save_content": "Save content"
+  },
+  "language": {
+    "hr": "Hrvatski",
+    "en": "English"
+  }
+}

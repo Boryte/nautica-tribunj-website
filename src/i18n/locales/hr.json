@@ -1,0 +1,412 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "Priča",
+    "menu": "Meni",
+    "events": "Događanja",
+    "reservation": "Rezervacija",
+    "media": "Mediji",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "subtitle": "Cocktail bar & caffe bar uz more",
+    "headline": "Ritam mora, kave i koktela",
+    "description": "Nautica je cocktail bar i caffe bar na rivi u Tribunju gdje se ritam mora, kave i koktela osjeća od jutarnje kave do zlatnog sata i večeri uz more.",
+    "cta_reserve": "Rezervirajte stol",
+    "cta_events": "Događanja",
+    "cta_menu": "Istražite Meni"
+  },
+  "brand": {
+    "tagline": "More u čaši, mir u pogledu",
+    "intro": "Na samoj rivi u Tribunju, Nautica spaja ritam mora, kave i koktela u jedan elegantan tok. Ovdje se dolazi zbog pogleda, ostaje zbog atmosfere, a vraća zbog osjećaja da je svaka večer dobila pravu mjeru.",
+    "since": "Est. 2024"
+  },
+  "experiences": {
+    "title": "Momenti za pamćenje",
+    "subtitle": "Svaki dio dana u Nautici nosi svoj poseban karakter",
+    "morning": {
+      "title": "Jutarnja kava",
+      "description": "Započnite dan uz espresso i pogled na mirno jutarnje more."
+    },
+    "sunset": {
+      "title": "Sunset kokteli",
+      "description": "Gledajte kako sunce tone u more uz naše signature koktele."
+    },
+    "evening": {
+      "title": "Večernji užitak",
+      "description": "Glazba, atmosfera i društvo pod zvijezdama."
+    }
+  },
+  "events_section": {
+    "title": "Nadolazeća događanja",
+    "subtitle": "Ekskluzivne večeri, live glazba i posebni trenuci",
+    "cta": "Sva događanja",
+    "featured": "Istaknuto"
+  },
+  "menu_preview": {
+    "title": "Iz našeg Menia",
+    "subtitle": "Pažljivo odabrani okusi Mediterana",
+    "cta": "Pogledajte cijeli Meni",
+    "signature": "Signature"
+  },
+  "reservation_cta": {
+    "title": "Rezervirajte svoj trenutak",
+    "description": "Osigurajte najbolje mjesto za nezaboravan doživljaj uz more.",
+    "cta": "Rezervirajte stol"
+  },
+  "social": {
+    "title": "Pratite nas",
+    "subtitle": "Trenutci s naše terase"
+  },
+  "social_live": {
+    "eyebrow": "Pratite uživo",
+    "title": "{{handle}} u pokretu i u stvarnom vremenu.",
+    "description": "Live Instagram and Facebook feed",
+    "media_cta": "Otvorite medije",
+    "instagram_cta": "Instagram",
+    "facebook_cta": "Facebook",
+    "live_label": "Live feed",
+    "curated_label": "Kurirani fallback",
+    "caption_fallback": "Pratite lokal za najnoviju atmosferu, zalaske i trenutke s terase.",
+    "fallback_note": "Instagram Graph API temporarily unavailable.",
+    "facebook_label": "Facebook timeline",
+    "facebook_title": "Stranica ostaje čitljiva bez izlaska iz atmosfere Nautice.",
+    "facebook_body": "Nedavne objave, obavijesti i javna aktivnost vide se direktno na početnoj kroz službeni Facebook page plugin."
+  },
+  "visit": {
+    "title": "Posjetite nas",
+    "address": "DONJA RIVA 55",
+    "city": "22212 Tribunj, Hrvatska",
+    "hours_title": "Radno vrijeme",
+    "hours_weekday": "Pon – Pet: 08:00 – 00:00",
+    "hours_weekend": "Sub – Ned: 09:00 – 01:00",
+    "phone": "+385 99 785 6785",
+    "email": "trebocconi@trebocconi.com"
+  },
+  "footer": {
+    "rights": "Sva prava pridržana.",
+    "privacy": "Privatnost",
+    "terms": "Uvjeti korištenja",
+    "cookies": "Kolačići"
+  },
+  "cookie_consent": {
+    "eyebrow": "Postavke kolačića",
+    "title": "Koristimo samo ono što stranici stvarno treba, a ostalo uključujete vi.",
+    "body": "Nužne tehnologije ostaju aktivne radi rada stranice, sigurnosti i slanja obrazaca koje sami pokrenete. Analitika i vanjski sadržaji poput Google Maps ili Facebook widgeta učitavaju se tek nakon vašeg pristanka.",
+    "accept_all": "Prihvati sve",
+    "reject_optional": "Odbij opcionalno",
+    "customize": "Prilagodi izbor"
+  },
+  "cookie_settings": {
+    "trigger": "Postavke kolačića",
+    "eyebrow": "Kontrola pristanka",
+    "title": "Odaberite što se može učitati na stranici.",
+    "description": "Nužna kategorija ostaje aktivna jer bez nje stranica i administracija ne mogu raditi ispravno. Ostale kategorije možete uključiti ili ostaviti isključene.",
+    "always_active": "Uvijek aktivno",
+    "save_preferences": "Spremi postavke",
+    "categories": {
+      "necessary": {
+        "title": "Nužno",
+        "body": "Sigurnost, administracijska prijava, spremanje vašeg izbora kolačića i tehnički tokovi koji su potrebni da stranica radi."
+      },
+      "preferences": {
+        "title": "Preference",
+        "body": "Pamćenje jezika, odbačenih obavijesti i sličnih lokalnih postavki koje poboljšavaju iskustvo, ali nisu nužne za osnovni rad."
+      },
+      "analytics": {
+        "title": "Analitika",
+        "body": "Osnovne performansne metrike za razumijevanje brzine, stabilnosti i kvalitete javne stranice."
+      },
+      "marketing": {
+        "title": "Vanjski sadržaji",
+        "body": "Google Maps, Facebook timeline i drugi ugrađeni servisi trećih strana koji mogu postaviti vlastite kolačiće."
+      }
+    }
+  },
+  "cookie_gate": {
+    "allow_and_load": "Dopusti i učitaj",
+    "open_settings": "Postavke kolačića"
+  },
+  "about": {
+    "hero_title": "Priča Nautice",
+    "hero_subtitle": "Cocktail bar i caffe bar uz more u Tribunju",
+    "story_title": "Gdje je sve počelo",
+    "story_p1": "Nautica je nastala iz ljubavi prema moru, dobroj kavi i večerima koje imaju pravi osjećaj mjere. Na rivi u Tribunju gradimo mjesto u kojem pogled, servis, glazba i čaša rade zajedno umjesto da se natječu za pažnju.",
+    "story_p2": "Svaki detalj, od prve jutarnje kave do signature koktela u zlatnom satu, prati istu ideju: da iskustvo bude profinjeno, toplo i dovoljno posebno da ga poželite ponoviti.",
+    "philosophy_title": "Filozofija",
+    "philosophy_text": "Vjerujemo da luksuz nije u višku, nego u pravom trenutku: kavi dok se riva budi, koktelu dok sunce tone i večeri koja ostaje lagana, ali nezaboravna.",
+    "values": {
+      "quality": "Kvaliteta bez kompromisa",
+      "atmosphere": "Atmosfera koja inspirira",
+      "hospitality": "Gostoprimstvo iz srca"
+    }
+  },
+  "menu_page": {
+    "title": "Meni",
+    "subtitle": "Signature kokteli, birana kava i mediteranski ritam na rivi u Tribunju.",
+    "categories": {
+      "signature_cocktails": "Signature kokteli",
+      "spritz": "Spritz",
+      "vodka": "Vodka",
+      "cognac": "Cognac",
+      "whisky": "Whisky",
+      "rum": "Rum",
+      "tequila_mezcal": "Tequila & Mezcal",
+      "gin": "Gin",
+      "liqueurs": "Likeri",
+      "wine": "Vino",
+      "beer": "Pivo",
+      "cider": "Cider",
+      "premium_mixers": "Premium mikseri",
+      "water": "Voda",
+      "soft_drinks": "Bezalkoholna pića",
+      "fresh_juices": "Svježi sokovi",
+      "hot_beverages": "Topli napitci",
+      "cigars": "Cigare"
+    }
+  },
+  "events_page": {
+    "title": "Događanja",
+    "subtitle": "Sunset sessioni, DJ večeri i posebni događaji uz more u Tribunju.",
+    "upcoming": "Nadolazeća",
+    "past": "Prošla",
+    "rsvp": "Prijavite se",
+    "sold_out": "Rasprodano",
+    "free_entry": "Slobodan ulaz",
+    "hero_eyebrow": "Program",
+    "hero_title": "Događanja imaju vlastiti ritam, ne samo datum.",
+    "overview_eyebrow": "Pregled događanja",
+    "overview_description": "Istaknuti pogled, kalendar mjeseca i linearni pregled rade iz iste baze sadržaja.",
+    "views": {
+      "featured": "Istaknuto",
+      "calendar": "Kalendar",
+      "list": "Lista"
+    },
+    "featured_badge": "Istaknuto",
+    "previous": "Prethodni",
+    "next": "Sljedeći"
+  },
+  "reservation_page": {
+    "title": "Rezervacija",
+    "subtitle": "Rezervirajte stol u Nautici, cocktail baru i caffe baru na rivi u Tribunju.",
+    "hero_eyebrow": "Rezervacije",
+    "hero_title": "Rezervirajte večer uz more bez generičnog toka.",
+    "trust_label": "Povjerenje u procesu",
+    "trust_points": {
+      "confirmation": {
+        "title": "Potvrda bez nesigurnosti",
+        "body": "Svaki zahtjev ulazi u stvarni operativni tok tima."
+      },
+      "availability": {
+        "title": "Pravi termini i dostupnost",
+        "body": "Vrijeme, kapacitet i zatvaranja provjeravaju se prije potvrde."
+      },
+      "areas": {
+        "title": "Zona koja odgovara ritmu večeri",
+        "body": "Terasa, bar i intimnije zone vode u isti profinjen tok."
+      }
+    },
+    "success_body": "Naš tim će potvrditi detalje putem telefona ili e-maila. Ako večer uključuje event ili posebnu zonu, prilagodit ćemo potvrdu stvarnoj dostupnosti.",
+    "table_label": "Vaš stol",
+    "table_title": "Precizan tok za dolazak, termin i atmosferu večeri.",
+    "process_label": "Kako radimo",
+    "process_points": {
+      "one": "Zahtjev ulazi u stvarni operativni sustav, ne u generički inbox.",
+      "two": "Kapacitet i posebni termini provjeravaju se prije potvrde.",
+      "three": "Event i VIP rezervacije ostaju povezane s pravim večerima i zonama."
+    },
+    "contact_timing_label": "Kontakt i raspored",
+    "form": {
+      "name": "Ime i prezime",
+      "email": "Email adresa",
+      "phone": "Telefon",
+      "date": "Datum",
+      "time": "Vrijeme",
+      "guests": "Broj gostiju",
+      "area": "Željena zona",
+      "areas": {
+        "terrace": "Terasa",
+        "indoor": "Unutarnji prostor",
+        "bar": "Bar",
+        "vip": "VIP zona"
+      },
+      "notes": "Posebne napomene",
+      "notes_hint": "Alergije, event, proslava",
+      "notes_placeholder": "Posebna želja, event večer ili VIP upit.",
+      "name_placeholder": "Ime i prezime",
+      "consent": "Suglasan/na sam s uvjetima rezervacije i politikom privatnosti.",
+      "submit": "Pošaljite rezervaciju",
+      "success": "Rezervacija zaprimljena! Javit ćemo vam se uskoro.",
+      "error": "Došlo je do greške. Pokušajte ponovo."
+    }
+  },
+  "media_page": {
+    "title": "Mediji",
+    "subtitle": "Kadrovi mora, zalazaka i večeri koje definiraju Nauticu u Tribunju.",
+    "hero_eyebrow": "Mediji",
+    "hero_title": "Atmosfera Nautice živi i u kadru i između kadrova.",
+    "all": "Sve"
+  },
+  "faq_page": {
+    "title": "FAQ",
+    "subtitle": "Jasni odgovori za rezervacije, događanja i privatne upite prije dolaska u Nauticu u Tribunju.",
+    "hero_eyebrow": "Pitanja gostiju",
+    "hero_title": "Osnove trebaju biti jednako promišljene kao i samo mjesto.",
+    "quick_label": "Na prvi pogled",
+    "quick_entries": "kuriranih odgovora dostupno odmah",
+    "quick_whatsapp": "WhatsApp ostaje najbrži put za sve specifično.",
+    "section_label": "Česta pitanja",
+    "section_title": "Korisni odgovori, organizirani s istim mirom kao i ostatak iskustva.",
+    "section_body": "Rezervacije, pristup događanjima, detalji prostora i privatni upiti sada stoje na jednom profinjenom mjestu umjesto da se gube po porukama.",
+    "categories_label": "Kategorije",
+    "single_entry": "stavka",
+    "multiple_entries": "stavki",
+    "cta_label": "Trebate nešto specifičnije?",
+    "cta_title": "Prijeđite s odgovora na akciju bez gubitka atmosfere.",
+    "cta_body": "Ako odgovor nije ovdje, nastavite izravno u WhatsApp ili otvorite rezervaciju s pravim kontekstom već unaprijed postavljenim.",
+    "cta_actions": "Izravne akcije",
+    "whatsapp_cta": "Otvorite WhatsApp"
+  },
+  "contact_page": {
+    "title": "Kontakt",
+    "subtitle": "Javite nam se",
+    "hero_eyebrow": "Kontakt",
+    "hero_title": "Javite se bez gubitka atmosfere.",
+    "location_label": "Lokacija",
+    "direct_contact_label": "Direktan kontakt",
+    "send_note_label": "Pošaljite poruku",
+    "send_note_title": "Upit može biti brz, ali iskustvo ne mora biti generično.",
+    "success_title": "Poruka je zaprimljena.",
+    "success_body": "Javit ćemo se s jasnim odgovorom putem e-maila ili telefona čim tim pregleda upit.",
+    "form": {
+      "name": "Vaše ime",
+      "email": "Email",
+      "message": "Poruka",
+      "submit": "Pošaljite",
+      "name_placeholder": "Vaše ime",
+      "email_placeholder": "ime@example.com",
+      "message_placeholder": "Pitajte za privatni event, terasu ili bilo što što pomaže oblikovati dolazak.",
+      "success_toast": "Poruka je poslana",
+      "error_toast": "Poruku nije bilo moguće poslati"
+    }
+  },
+  "about_page": {
+    "story_intro_title": "Nautica nije zamišljena kao još jedan lokal uz more, nego kao mjesto kojem se vraćaš zbog osjećaja.",
+    "values": {
+      "horizon_title": "Pogled koji vodi tempo",
+      "taste_title": "Okus bez viška",
+      "hospitality_title": "Gostoprimstvo bez distance",
+      "hospitality_body": "Servis je topao, jasan i namjerno nenametljiv."
+    }
+  },
+  "menu_book": {
+    "cover_body": "Izdanje za sporije večeri, potpisne koktele i jutra koja ostaju lagana.",
+    "editorial_title": "Večernji vodič kroz okuse",
+    "editorial_subtitle": "Poglavlja",
+    "editorial_body": "Poglavlja se listaju poput male večernje knjige. Dodirnite, povucite ili prijeđite na željenu sekciju.",
+    "curated_selection": "Odabrana selekcija",
+    "continuation": "Nastavak {{index}}",
+    "previous": "Prethodna",
+    "next": "Sljedeća"
+  },
+  "menu_page_experience": {
+    "hero_eyebrow": "Nautica meni",
+    "hero_title": "Meni je sada jedno izdanje, a ne obična lista.",
+    "hero_description": "Poglavlja, ritam i listanje vode kroz pića i zalogaje na isti način na mobitelu i desktopu.",
+    "aside_label": "Book-first iskustvo",
+    "aside_card_one_title": "Swipe, tap ili listanje",
+    "aside_card_one_body": "Mobilni prikaz zadržava metaforu knjige umjesto generičnih kartica.",
+    "aside_card_two_suffix": "poglavlja",
+    "aside_card_two_body": "Jedan izvor podataka, jedna premium naracija Menia.",
+    "read_label": "Kako čitati izdanje",
+    "read_steps": {
+      "one": "Koristite poglavlja za skok na kavu, koktele, vina ili zalogaje.",
+      "two": "Na desktopu stranice se okreću poput malog menija večeri.",
+      "three": "Na mobitelu listanje ostaje touch-first, brzo i čitljivo."
+    },
+    "signature_label": "Potpis Nautice",
+    "signature_title": "Okusi ostaju uređeni, ali sada imaju prisutnost.",
+    "signature_body": "Meni više ne mijenja karakter ovisno o uređaju. Jedna ista editorijalna logika prati iskustvo od prvog poglavlja do zadnje stranice.",
+    "signature_badge": "Book-only iskustvo"
+  },
+  "home_page": {
+    "tonight_label": "Događanja u Nautici",
+    "signature_label": "Potpisni trenuci",
+    "signature_sequence_title": "Od prve kave do zadnjeg pogleda na more, dan ili noć ovdje imaju svoj elegantan tempo.",
+    "atmosphere_moments": {
+      "one": {
+        "title": "Prva kava uz obalu",
+        "body": "Jutro je tiho, servis precizan, a pogled čist."
+      },
+      "two": {
+        "title": "Aperitivo u zlatnom satu",
+        "body": "Kokteli i more dijele isti ritam pred zalazak."
+      },
+      "three": {
+        "title": "Večer s razlogom za ostati",
+        "body": "Program, glazba i društvo oblikuju večeri koje imaju težinu."
+      }
+    },
+    "featured_badge": "Istaknuto",
+    "view_event": "Pogledajte događaj",
+    "atmosphere_label": "Atmosfera",
+    "atmosphere_title": "Svjetlo, more i glazba ovdje nikad ne djeluju odvojeno.",
+    "atmosphere_body": "Jutro je svježe, zlatni sat mekan, a večer puna topline. Nautica ne gradi dojam bukom, nego ritmom koji prirodno ostaje u pamćenju.",
+    "menu_label": "Meni",
+    "menu_title": "Listajte ga kao malo večernje izdanje.",
+    "menu_body": "Kava, signature kokteli, spritzevi, vino i pažljivo složena pića vode goste kroz meni koji ima osjećaj male obalne večeri u tiskanom izdanju.",
+    "open_edition": "Otvorite izdanje",
+    "media_label": "Mediji",
+    "media_title": "Mjesto sada čuva i mirne kadrove i trenutke u pokretu.",
+    "media_body": "Fotografije, kratki videozapisi i GIF scene interijera, terase i zalazaka drže ritam cijelog mjesta u vidokrugu.",
+    "open_media": "Otvorite medije",
+    "reservation_title": "Rezervirajte stol uz more za kavu, aperitivo ili večer koja traje duže od plana.",
+    "reservation_body": "Na rivi u Tribunju rezervacije vode prema pravom stolu, pravom terminu i pogledu koji radi pola atmosfere. Jednostavno, jasno i bez hladnog generičnog toka.",
+    "opening_hours_label": "Radno vrijeme",
+    "contact_label": "Kontakt"
+  },
+  "event_detail": {
+    "spots_suffix": "mjesta",
+    "limited_spots": "Ograničen",
+    "narrative_label": "Opis večeri",
+    "reservation_title": "Mjesto se potvrđuje kroz rezervacijski tok događanja.",
+    "reservation_interest_title": "Pošaljite interes za ovu večer.",
+    "reservation_cta": "Rezervirajte mjesto"
+  },
+  "common": {
+    "loading": "Učitavanje Nautice...",
+    "error": "Došlo je do pogreške.",
+    "retry": "Pokušajte ponovno",
+    "save": "Spremi",
+    "saving": "Spremanje...",
+    "logout": "Odjava",
+    "on": "Uklj",
+    "off": "Isklj"
+  },
+  "messages": {
+    "reservation_waitlist": "Za odabrani termin ova zona prima samo zahtjeve za listu čekanja.",
+    "event_registered": "Vaša prijava je potvrđena.",
+    "event_waitlist": "Događanje je popunjeno, ali dodani ste na listu čekanja."
+  },
+  "admin": {
+    "login_title": "Prijava za administraciju",
+    "login_subtitle": "Siguran pristup za Nautica tim",
+    "dashboard": "Pregled",
+    "announcements": "Obavijesti",
+    "glimpses": "Glimpse",
+    "media": "Mediji",
+    "faqs": "FAQ",
+    "reservations": "Rezervacije",
+    "events": "Događanja",
+    "menu": "Meni",
+    "settings": "Postavke",
+    "recent_activity": "Nedavne aktivnosti",
+    "update_status": "Ažuriraj status",
+    "save_content": "Spremi sadržaj"
+  },
+  "language": {
+    "hr": "Hrvatski",
+    "en": "English"
+  }
+}
