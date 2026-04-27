@@ -4,12 +4,6 @@ Ovo je kompletan web projekt za Nautica hospitality/restaurant/caffe priču. Pro
 
 Web aplikacija je završena  **otprilike 80%**.  **NIJE** finalni proizvod.
 
-## Zašto je projekt javno objavljen
-
-Projekt je originalno rađen za klijenticu, ali dogovoreni rad na kraju nije bio plaćen. Pošto je klijentica odustala od projekta, odlučeno je da se kod pusti javno. Klijentica je rađe htjela WordPress template. Uzeo sam određene smjernice te sam design prilagodio Nautici te njihovim bojama i logotipu.
-
-Ako već projekt nije iskorišten tamo gdje je trebao biti, onda barem može pomoći nekome drugome kao primjer za React + Node + SQLite web aplikaciju za restoran, kafić, beach bar ili neki sličan hospitality business.
-
 
 ## O projektu
 
