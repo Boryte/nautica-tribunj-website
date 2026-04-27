@@ -2,7 +2,7 @@
 
 Ovo je kompletan web projekt za Nautica hospitality/restaurant/caffe priču. Projekt nije samo obična landing stranica, nego cijeli mali sustav: javna stranica, admin panel, API, SQLite baza, događaji, rezervacije, galerija, meni i osnovni SEO setup.
 
-Web aplikacija je završena otprilike 80%. NIJE finalni proizvod. Vlasnica je odustala od stranice, te je rađe htjela WordPress template i banalnu kopiju https://cafedelmar.com.mt. Uzeo sam određene smjernice te sam design prilagodio Nautici te njihovim bojama i logotipu.
+Web aplikacija je završena  **otprilike 80%**.  **NIJE** finalni proizvod. Vlasnica je odustala od stranice, te je rađe htjela WordPress template i banalnu kopiju https://cafedelmar.com.mt. Uzeo sam određene smjernice te sam design prilagodio Nautici te njihovim bojama i logotipu.
 
 ## Zašto je projekt javno objavljen
 
@@ -11,6 +11,21 @@ Projekt je originalno rađen za klijenticu, ali dogovoreni rad na kraju nije bio
 Ako već projekt nije iskorišten tamo gdje je trebao biti, onda barem može pomoći nekome drugome kao primjer za React + Node + SQLite web aplikaciju za restoran, kafić, beach bar ili neki sličan hospitality business.
 
 README je namjerno napisan jednostavno, normalnim jezikom. Nije neki robotski tekst, nego kratko objašnjenje šta je unutra i kako se pokrene.
+
+## O projektu
+
+Ovaj projekt je napravljen kao moderna web stranica za **Nautica Tribunj**.
+
+Projekt uključuje frontend, backend, admin panel, galeriju, događaje, višejezični sadržaj i sve osnovne stvari koje su bile potrebne za pravi ugostiteljski website.
+
+Prema javno dostupnim poslovnim informacijama, Nautica Tribunj je povezana s ugostiteljskim obrtom **Tre bocconi**, vlasnica **Irena Cvitan**.
+
+Službeni/profilni linkovi:
+- Instagram: @nautica_tribunj
+- Facebook: Caffe Bar Nautica | Tribunj
+
+Kod je objavljen javno jer naručeni rad na kraju nije plaćen.  
+Nije cilj raditi dramu, nego pokazati što je napravljeno i ostaviti projekt dostupan kao primjer rada.
 
 ## Šta projekt ima
 
