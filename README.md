@@ -1,6 +1,6 @@
 # Nautica web stranica
 
-Ovo je kompletan web projekt za Nautica hospitality/restaurant/caffe priču. Projekt nije samo obična landing stranica, nego cijeli mali sustav: javna stranica, admin panel, API, SQLite baza, događaji, rezervacije, galerija, meni i osnovni SEO setup.
+Ovo je kompletan web projekt za Nautica Cocktail bar u Tribunju. Projekt nije samo obična landing stranica, nego cijeli mali sustav: javna stranica, admin panel, API, SQLite baza, događaji, rezervacije, galerija, meni i osnovni SEO setup.
 
 Web aplikacija je završena  **otprilike 80%**.  **NIJE** finalni proizvod.
 
@@ -17,7 +17,7 @@ Službeni/profilni linkovi:
 - Instagram: @nautica_tribunj
 - Facebook: Caffe Bar Nautica | Tribunj
 
-Kod je objavljen javno jer naručeni rad na kraju nije plaćen.  
+Klijentica je odustala od projekta te je kod objavljen javno u svrhu učenja. 
 Nije cilj raditi dramu, nego pokazati što je napravljeno i ostaviti projekt dostupan kao primjer rada.
 
 ## Šta projekt ima
